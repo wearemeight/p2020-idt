@@ -9,7 +9,7 @@ repo_name: wearemeight
 repo_url: https://github.com/wearemeight
 
 # Copyright
-copyright: Copyright &copy; 2020 - Meight 2020
+copyright: Copyright &copy; 2021 - Meight 2021
 
 # Configuration
 theme:
@@ -26,9 +26,6 @@ theme:
 
 nav:
   - Indíce: 00-index.md
-#  - Languages:
-##      - Português: /pt/
-#      - English: /
   - Aquisição de Dados: 01-acquisition.md
   - Driver App: 02-driverapp.md
   - Dashboard: 03-dashboard.md
