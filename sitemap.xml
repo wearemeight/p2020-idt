@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://www.meight.com/00-index/</loc>
+     <lastmod>2021-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.meight.com/01-acquisition/</loc>
+     <lastmod>2021-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.meight.com/02-driverapp/</loc>
+     <lastmod>2021-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.meight.com/03-dashboard/</loc>
+     <lastmod>2021-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.meight.com/04-pipeline/</loc>
+     <lastmod>2021-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.meight.com/05-simulation/</loc>
+     <lastmod>2021-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.meight.com/06-dissemination/</loc>
+     <lastmod>2021-03-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
