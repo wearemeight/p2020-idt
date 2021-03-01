@@ -1,0 +1,62 @@
+# Project information
+site_name: 'Meight'
+site_description: 'We’re learning from data to help drivers spend less and use less, so every journey has a positive impact on the world.'
+site_author: Meight
+site_url: 'https://www.meight.com'
+edit_uri: ''
+# Repository
+repo_name: wearemeight
+repo_url: https://github.com/wearemeight
+
+# Copyright
+copyright: Copyright &copy; 2020 - Meight 2020
+
+# Configuration
+theme:
+  name: material
+  logo: images/BLUE_M8.svg
+  language: en
+  palette:
+    primary: white
+    accent: white
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: images/favicon.png
+
+nav:
+  - Indíce: 00-index.md
+#  - Languages:
+##      - Português: /pt/
+#      - English: /
+  - Aquisição de Dados: 01-acquisition.md
+  - Driver App: 02-driverapp.md
+  - Dashboard: 03-dashboard.md
+  - Pipeline: 04-pipeline.md
+  - Simulação: 05-simulation.md
+  - Disseminação: 06-dissemination.md
+
+
+# Extras
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/wearemeight
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/wearemeight
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/wearemeight
+
+
+# Google Analytics
+#google_analytics:
+#  - UA-XXXXXXXX-X
+#  - auto
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true

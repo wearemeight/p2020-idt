@@ -1,0 +1,7 @@
+# virtual environment
+venv
+
+# pycharm
+.idea
+
+docs/pt/site/*
