@@ -25,7 +25,7 @@ theme:
   favicon: images/favicon.png
 
 nav:
-  - Indíce: 00-index.md
+  - Indíce: index.md
   - Aquisição de Dados: 01-acquisition.md
   - Driver App: 02-driverapp.md
   - Dashboard: 03-dashboard.md
