@@ -4,7 +4,7 @@
 
 #Investigação Aplicada e Desenvolvimento Experimental de uma solução tecnológica comportamental para realização de treino em tempo real, para uma condução eficiente e sustentável
 
-Este projeto enquadra-se no Sistema de Incentivos à Investigação e Desenvolvimento Tecnológico (SI I&DT), Projetos Individuais, sob o aviso 01/SI/2018. Este projeto, [ALT20-03-0247-FEDER-038316, intitulado “Investigação Aplicada e Desenvolvimento Experimental de uma solução tecnológica comportamental para realização de treino em tempo real, para uma condução eficiente e sustentável”](https://drive.google.com/file/d/1Vw2VF6JFwSh-Du4CbB5p5dDZAU7wDF-m/view?usp=sharing) foi atribuído na região de intervenção Alentejo 2020.
+Este projeto enquadra-se no Sistema de Incentivos à Investigação e Desenvolvimento Tecnológico (SI I&DT), Projetos Individuais, sob o aviso 01/SI/2018. Este projeto, [ALT20-03-0247-FEDER-038316, intitulado “Investigação Aplicada e Desenvolvimento Experimental de uma solução tecnológica comportamental para realização de treino em tempo real, para uma condução eficiente e sustentável”](https://drive.google.com/file/d/1rM5VEGbOadBLnuf1_0vJeLigedTc1KjF/view?usp=sharing) foi atribuído na região de intervenção Alentejo 2020.
 
 Este projeto teve como objetivo principal a redução do consumo de combustível e consequentes emissões de CO2 provenientes dos veículos pesados, através do desenvolvimento de metodologias e ferramentas de elevado índice tecnológico. Assim, haverá lugar ao Desenvolvimento Experimental de um dispositivo de aquisição de dados de um semi-reboque, capaz de conectar com o sistema de informação deste e proceder à aquisição de dados e redirecionar essa informação para nossos servidores na cloud, em tempo real.
 
